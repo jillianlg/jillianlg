@@ -2,7 +2,7 @@
 ##### Full-Stack Software Developer
 ***
 
-<img src="https://github.com/jillianlg/jillianlg/blob/main/climbing.JPG" alt="rock climbing" style="height:200px; width: auto"/>
+<img src="https://github.com/jillianlg/jillianlg/blob/main/climbing.JPG" alt="rock climbing" height="200"/>
 
 ***
 <p text-align="center">I am a Full-Stack Software Developer with experience in JavaScript, React, and both relational and non-relational databases. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. I am an introvert who leads with listening, curiosity, and am driven by the challange of problem solving. My diverse background has primed my tech career with empathy and a love for dynamic collaboration. I am brave in my contributions, have a thirst for learning new tech, and embrace failure. I value spending my time away from the computer, developing my patience, endurance, and ability to evaluate the environment to determine the best path forward by spending time outdoors enjoying adventure activities such as backpacking, rock climbing, and canyoneering.</p>
