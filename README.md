@@ -17,13 +17,13 @@
 ***
 
 ### 💻 Tech Stack
-* **Languages:** JavaScript, HTML/CSS
-* **Back-End:** Node.js, Express
-* **Front-End:** React, jQuery, Bootstrap
-* **Databases:** PostgreSQL
-* **Tools:** Slack, GitHub, VScode, Heroku, Netlify
+* **Languages:** JavaScript, HTML5/CSS
+* **Back-End:** Node, Express
+* **Front-End:** React, Next,js, jQuery, Bootstrap
+* **Databases:** MySQL, PostgreSQL
+* **Tools:** Slack, GitHub, VScode, Heroku, Netlify, Postman
 * **Testing Suites:** Jest, QUnit
-* **Dev Practices:** TDD, DDD Pair/Mob Programming, Scrum
+* **Dev Practices:** TDD, BDD, Pair/Mob Programming, Scrum
 ****
 ### 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jillianlg&layout=compact&theme=vision-friendly)](https://github.com/jillianlg/github-readme-stats)
