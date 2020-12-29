@@ -8,7 +8,7 @@
 <img src="https://github.com/jillianlg/jillianlg/blob/main/climbing.JPG" alt="rock climbing" style="center" height="300"/>
   
 ***
-<p width="400"> I am an introvert who leads with listening, curiosity, and am driven by the challange of problem solving. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. My [diverse background](https://www.linkedin.com/in/jillianlgibson/) has primed my tech career with empathy and a love for dynamic collaboration. I value spending my time away from the computer enjoying problem solving challanges with outdoor activities such as backpacking, rock climbing, and canyoneering.</p>
+<p width="400"> I am an introvert who leads with listening, curiosity, and am driven by the challange of problem solving. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. My <span>[diverse background](https://www.linkedin.com/in/jillianlgibson/)</span> has primed my tech career with empathy and a love for dynamic collaboration. I value spending my time away from the computer enjoying problem solving challanges with outdoor activities such as backpacking, rock climbing, and canyoneering.</p>
 
 ***
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)
