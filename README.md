@@ -1,6 +1,3 @@
-<### align="center">
-### Jillian Gibson | Full-Stack Software Developer
-***
 <p align="center">
 <img src="https://github.com/jillianlg/jillianlg/blob/main/climbing.JPG" alt="rock climbing" style="center" height="400"/>
 
