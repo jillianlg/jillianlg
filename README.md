@@ -1,9 +1,9 @@
 <h2 align="center"> Jillian Gibson   |    Full-Stack Software Developer </h2>
   
-***
-<p width="400"> A Full-Stack Software Developer with experience in JavaScript, React, and both relational and non-relational databases. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. </p>
-***
 
+<p width="400"> A Full-Stack Software Developer with experience in JavaScript, React, and both relational and non-relational databases. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. </p>
+
+***
 <p align="center">
 <img src="https://github.com/jillianlg/jillianlg/blob/main/climbing.JPG" alt="rock climbing" style="center" height="300"/>
   
