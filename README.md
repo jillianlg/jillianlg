@@ -1,14 +1,14 @@
-<h2 align="center"> Jillian Gibson   |    Full-Stack Software Developer </h2>
+<h2 align="center"> Jillian Gibson </h2>
   
 
-<p width="400"> A Full-Stack Software Developer with experience in JavaScript, React, and both relational and non-relational databases. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. </p>
+<p width="400"> A Full-Stack Software Developer with experience in JavaScript, React, and both relational and non-relational databases.</p>
 
 ***
 <p align="center">
 <img src="https://github.com/jillianlg/jillianlg/blob/main/climbing.JPG" alt="rock climbing" style="center" height="300"/>
   
 ***
-<p width="400"> I am an introvert who leads with listening, curiosity, and am driven by the challange of problem solving. My diverse background has primed my tech career with empathy and a love for dynamic collaboration. I am brave in my contributions, have a thirst for learning new tech, and embrace failure. I value spending my time away from the computer, developing my patience, endurance, and ability to evaluate the environment to determine the best path forward by spending time outdoors enjoying adventure activities such as backpacking, rock climbing, and canyoneering.</p>
+<p width="400"> I am an introvert who leads with listening, curiosity, and am driven by the challange of problem solving. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. My [diverse background]https://www.linkedin.com/in/jillianlgibson/) has primed my tech career with empathy and a love for dynamic collaboration. I value spending my time away from the computer enjoying problem solving challanges with outdoor activities such as backpacking, rock climbing, and canyoneering.</p>
 
 ***
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jillianlgibson/)
