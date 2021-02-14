@@ -5,7 +5,7 @@
 
 ***
 <p align="center">
-<img src="https://github.com/jillianlg/jillianlg/blob/main/climbing.JPG" alt="rock climbing" style="center" height="250"/>
+<img src="https://github.com/jillianlg/jillianlg/blob/main/climmbing-quote.png" alt="rock climbing" style="center" height="400"/>
   
 ***
 <p width="400"> I am an introvert who leads with listening, curiosity, and am driven by the challange of problem solving. I love clean code, quality documentation, data, collaborative projects, learning new skills, and optimizing old systems. My diverse background has primed my tech career with empathy and a love for dynamic collaboration. I value spending my time away from the computer enjoying problem solving challanges with outdoor activities such as backpacking, rock climbing, and canyoneering.</p>
